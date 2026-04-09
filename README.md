@@ -39,19 +39,6 @@ Atualmente estou direcionando minha evolução profissional para a área de **Cy
 
 ---
 
-## 🎯 Áreas de interesse
-
-- Blue Team
-- SOC
-- Análise de incidentes
-- Hardening
-- Segurança de endpoints
-- Redes
-- Monitoramento
-- Documentação técnica
-
----
-
 ## 🚀 Projetos em destaque
 
 - 🔐 **Cybersecurity Labs** — laboratório prático com foco em segurança ofensiva e defensiva
