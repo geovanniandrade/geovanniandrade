@@ -41,12 +41,12 @@ Atualmente estou direcionando minha evolução profissional para a área de **Cy
 
 ---
 
-## 🚀 Projetos em destaque
+## 📊 GitHub Stats
 
-- 🔐 **Cybersecurity Labs** — laboratório prático com foco em segurança ofensiva e defensiva
-- 🛡️ **Projeto Gula Bar** — análise de riscos e documentação técnica
-- 🎣 **Projeto CEI** — pentest e campanha de phishing controlada
-- 📝 **Documentações técnicas** — processos, evidências e aprendizados práticos
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=geovanniandrade&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovanniandrade&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800" />
+</p>
 
 ---
 
