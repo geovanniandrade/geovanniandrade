@@ -56,8 +56,8 @@ Atualmente estou direcionando minha evolução profissional para a área de **Cy
   <a href="https://www.linkedin.com/in/geovanni-g-o-andrade/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
- 📧 <a href="mailto:geovannig.hu1000d@gmail.com">geovannig.hu1000d@gmail.com</a>
-  </a>
+  &nbsp;
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=geovannig.hu1000d@gmail.com" target="_blank">geovannig.hu1000d@gmail.com</a>
 </p>
 
 ---
