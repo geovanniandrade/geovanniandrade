@@ -53,9 +53,10 @@ Atualmente estou direcionando minha evolução profissional para a área de **Cy
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=geovanniandrade&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovanniandrade&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=geovanniandrade&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovanniandrade&layout=compact&langs_count=8&theme=tokyonight" />
 </p>
+
 
 ---
 
