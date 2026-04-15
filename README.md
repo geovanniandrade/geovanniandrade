@@ -39,14 +39,11 @@ Atualmente estou direcionando minha evolução profissional para a área de **Cy
 
 ---
 
----
-
-## 📊 GitHub Stats
+## 🐍 Snake de contribuições
 
 <p align="center">
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=geovanniandrade&theme=tokyonight" />
+  <img src="https://github.com/geovanniandrade/geovanniandrade/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
-
 
 ---
 
@@ -59,12 +56,4 @@ Atualmente estou direcionando minha evolução profissional para a área de **Cy
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=geovannig.hu1000d@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
-
----
-
-## 📈 Atividade no GitHub
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=geovanniandrade&theme=tokyo-night" />
 </p>
