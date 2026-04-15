@@ -49,13 +49,14 @@ Atualmente estou direcionando minha evolução profissional para a área de **Cy
 
 ## 🚀 Projetos em destaque
 
-- 🔴 Pentest + Simulação de Phishing (Engenharia Social) 
-
+- 🔴 [Pentest + Simulação de Phishing (Engenharia Social)](https://github.com/geovanniandrade/security-case-studies/tree/main/pentest-and-phishing-simulation)  
   Realizado em ambiente corporativo autorizado (instituição confidencial), com foco em análise de comportamento do usuário, vetores de ataque e conscientização em segurança.
 
-- 🟡 Gula Bar - Análise de Riscos  
+- 🟡 [Gula Bar — Análise de Riscos](https://github.com/geovanniandrade/security-case-studies/tree/main/gula-bar-risk-analysis)  
+  Projeto finalizado com foco em identificação de ativos, ameaças, vulnerabilidades, impacto e recomendações de mitigação.
 
-- 🟢 Cybersecurity Labs
+- 🟢 [Cybersecurity Labs](https://github.com/geovanniandrade/cybersecurity-labs)  
+  Repositório com laboratórios práticos voltados para exploração controlada, defesa, análise e aprendizado técnico.
 
 ---
 
