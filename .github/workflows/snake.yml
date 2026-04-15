@@ -5,11 +5,17 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Generate snake
         uses: Platane/snk@v3
         with:
@@ -18,7 +24,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push to branch
+      - name: Commit and push snake to output branch
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           branch: output
