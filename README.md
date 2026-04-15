@@ -47,6 +47,14 @@ Atualmente estou direcionando minha evolução profissional para a área de **Cy
 
 ---
 
+## 🚀 Projetos em destaque
+
+- 🔴 Projeto CEI (Pentest + Phishing Simulation) [EM ANDAMENTO]
+- 🟡 Gula Bar - Análise de Riscos
+- 🟢 Cybersecurity Labs (GitHub)
+
+---
+
 ## 🌐 Conecte-se comigo
 
 <p align="left">
