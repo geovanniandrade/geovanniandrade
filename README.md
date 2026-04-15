@@ -42,7 +42,7 @@ Atualmente estou direcionando minha evolução profissional para a área de **Cy
 ## 🐍 Snake de contribuições
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/geovanniandrade/geovanniandrade/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="./github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
