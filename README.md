@@ -49,7 +49,7 @@ Atualmente estou direcionando minha evolução profissional para a área de **Cy
 
 ## 🚀 Projetos em destaque
 
-- 🔴 Simulação de Phishing e Pentest  
+- 🔴 Pentest + Simulação de Phishing (Engenharia Social) 
   Realizado em ambiente corporativo autorizado (instituição confidencial), com foco em análise de comportamento do usuário, vetores de ataque e conscientização em segurança.
 
 - 🟡 Gula Bar - Análise de Riscos  
