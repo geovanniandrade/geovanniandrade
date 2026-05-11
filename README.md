@@ -7,6 +7,7 @@
 <p align="center">
   Atuo com suporte, infraestrutura e segurança em ambiente corporativo, desenvolvendo projetos práticos de Blue Team, análise de vulnerabilidades, detecção de ameaças e resposta a incidentes.
 </p>
+
 ---
 
 ## 👨‍💻 Sobre mim
