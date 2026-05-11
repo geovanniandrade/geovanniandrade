@@ -1,13 +1,12 @@
 <h1 align="center">Olá, eu sou Geovanni Andrade 👋</h1>
 
 <p align="center">
-  <b>Profissional de TI | Infraestrutura | Cybersecurity 🚀</b>
+  <b>TI | Infraestrutura | Cybersecurity | Blue Team | SOC | Monitoramento e Resposta a Incidentes</b>
 </p>
 
 <p align="center">
-  Em evolução para Blue Team / SOC, com foco em segurança, suporte e ambiente corporativo.
+  Atuo com suporte, infraestrutura e segurança em ambiente corporativo, desenvolvendo projetos práticos de Blue Team, análise de vulnerabilidades, detecção de ameaças e resposta a incidentes.
 </p>
-
 ---
 
 ## 👨‍💻 Sobre mim
