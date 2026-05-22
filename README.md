@@ -55,8 +55,8 @@ Atualmente estou direcionando minha evolução profissional para a área de **Cy
 - 🎣 [GuiPhish — Security Awareness Platform](https://github.com/geovanniandrade/verificacao-seguranca)  
   Plataforma educacional para conscientização em segurança, simulações controladas de engenharia social, coleta de métricas e geração de relatórios.
 
-- 🟡 [Gula Bar — Análise de Riscos](LINK_DO_PROJETO)  
-  Projeto finalizado com foco em identificação de ativos, ameaças, vulnerabilidades, impacto e recomendações de mitigação.
+- 🟡 [Gula Bar — Análise de Riscos](https://github.com/geovanniandrade/security-case-studies/tree/main/gula-bar-risk-analysis)  
+  Case prático de análise de riscos, com foco em identificação de ativos, ameaças, vulnerabilidades, impacto, probabilidade e recomendações de mitigação.
 
 - 🟢 [Cybersecurity Labs](https://github.com/geovanniandrade/cybersecurity-labs)  
   Repositório com laboratórios práticos voltados para Blue Team, Red Team, Purple Team, análise de vulnerabilidades e resposta a incidentes.
