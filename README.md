@@ -49,8 +49,8 @@ Atualmente estou direcionando minha evolução profissional para a área de **Cy
 
 ## 🚀 Projetos em destaque
 
-- 🔴 [Pentest + Simulação de Phishing (Engenharia Social)](LINK_DO_PROJETO)  
-  Realizado em ambiente corporativo autorizado, com foco em análise de comportamento do usuário, vetores de ataque e conscientização em segurança.
+- 🔴 [Pentest + Simulação de Phishing — Engenharia Social](https://github.com/geovanniandrade/security-case-studies/tree/main/pentest-and-phishing-simulation)  
+  Case prático realizado em ambiente corporativo autorizado, com foco em reconhecimento, análise de exposição, simulação controlada de engenharia social, conscientização dos usuários e recomendações de melhoria de segurança.
 
 - 🎣 [GuiPhish — Security Awareness Platform](https://github.com/geovanniandrade/verificacao-seguranca)  
   Plataforma educacional para conscientização em segurança, simulações controladas de engenharia social, coleta de métricas e geração de relatórios.
