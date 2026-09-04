@@ -62,9 +62,12 @@ Atualmente estou direcionando minha evolução profissional para a área de **Cy
   Repositório com laboratórios práticos voltados para Blue Team, Red Team, Purple Team, análise de vulnerabilidades e resposta a incidentes.
 
 ---
-🌐 [Live Demo](https://geovanniandrade.github.io/gg-chain-of-custody/)
-Projeto DFIR com coleta e preservação de evidências digitais, cadeia de custódia, verificação de integridade, documentação técnica, interface web e geração de PDF.
+- 🛡️ **GG Digital Evidence & Chain of Custody**  
+  Projeto DFIR voltado à **coleta, preservação, integridade e rastreabilidade de evidências digitais**, com formulário interativo de cadeia de custódia, Knowledge Base, caso prático e geração de documento em PDF.
 
+  [![Repositório](https://img.shields.io/badge/📂_REPOSITÓRIO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/geovanniandrade/gg-chain-of-custody)
+  [![Live Demo](https://img.shields.io/badge/🌐_LIVE_DEMO-2563EB?style=for-the-badge)](https://geovanniandrade.github.io/gg-chain-of-custody/)
+  ---
 ## 🌐 Conecte-se comigo
 
 <p align="left">
