@@ -62,6 +62,8 @@ Atualmente estou direcionando minha evolução profissional para a área de **Cy
   Repositório com laboratórios práticos voltados para Blue Team, Red Team, Purple Team, análise de vulnerabilidades e resposta a incidentes.
 
 ---
+🌐 [Live Demo](https://geovanniandrade.github.io/gg-chain-of-custody/)
+Projeto DFIR com coleta e preservação de evidências digitais, cadeia de custódia, verificação de integridade, documentação técnica, interface web e geração de PDF.
 
 ## 🌐 Conecte-se comigo
 
