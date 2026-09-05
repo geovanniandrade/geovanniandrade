@@ -72,7 +72,7 @@ Atualmente estou direcionando minha evolução profissional para a área de **Cy
 - 🔴 **Pentest + Simulação de Phishing — Engenharia Social**  
   Case prático realizado em ambiente corporativo autorizado, com foco em reconhecimento, análise de exposição, simulação controlada de engenharia social, conscientização dos usuários e recomendações de melhoria de segurança.
 
-  [![Repositório](https://img.shields.io/badge/📂_REPOSITÓRIO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/geovanniandrade/security-case-studies)
+  [![Repositório](https://img.shields.io/badge/📂_REPOSITÓRIO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/geovanniandrade/security-case-studies/tree/main/pentest-and-phishing-simulation)
 
 ---
 
