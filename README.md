@@ -49,16 +49,14 @@ Atualmente estou direcionando minha evolução profissional para a área de **Cy
 
 ## 🚀 Projetos em destaque
 
-- 🛡️ **GG CyberLab — Blue Team, SOC, DFIR & DevSecOps**  
-  Laboratório autoral de Cibersegurança desenvolvido para simular uma infraestrutura corporativa segmentada, integrando **OPNsense, Active Directory, Wazuh, Cowrie, Nginx, OWASP Juice Shop, DFIR-IRIS, Velociraptor, Gitea e Trivy**.
+- 🦠 **GG Malware Analysis — DFIR, Static & Automated Analysis**  
+  Projeto de análise de malware estruturado em um pipeline completo, cobrindo **coleta de evidências, cadeia de custódia, análise primária, análise automatizada, propriedades estáticas, comportamento, análise de código e relatório técnico**.
 
-  O projeto demonstra um ciclo completo de segurança, desde a geração controlada de eventos até detecção, resposta a incidentes, investigação forense e melhoria da arquitetura.
+  O projeto reúne estudos práticos com **REMnux, VirusTotal, MetaDefender, ANY.RUN, Cuckoo Sandbox e MITRE ATT&CK**, mantendo rastreabilidade e integridade das evidências durante toda a investigação.
 
-  **Attack → Detect → Respond → Investigate → Improve**
+  **Collect → Preserve → Analyze → Correlate → Report**
 
-  [![Repositório](https://img.shields.io/badge/📂_REPOSITÓRIO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/geovanniandrade/gg-cyberlab)
-  [![Live Demo](https://img.shields.io/badge/🌐_LIVE_DEMO-2563EB?style=for-the-badge)](https://geovanniandrade.github.io/gg-cyberlab/)
-
+  [![Repositório](https://img.shields.io/badge/📂_REPOSITÓRIO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/geovanniandrade/gg-malware-analysis)
 ---
 
 - 🔎 **GG Digital Evidence & Chain of Custody**  
