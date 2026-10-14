@@ -49,44 +49,33 @@ Atualmente estou direcionando minha evolução profissional para a área de **Cy
 
 ## 🚀 Projetos em destaque
 
-- 🦠 **GG Malware Analysis — DFIR, Static & Automated Analysis**  
-  Projeto de análise de malware estruturado em um pipeline completo, cobrindo **coleta de evidências, cadeia de custódia, análise primária, análise automatizada, propriedades estáticas, comportamento, análise de código e relatório técnico**.
+### 🔴 [Security Case Studies — Pentest & Risk Analysis](https://github.com/geovanniandrade/security-case-studies)
+Estudos de caso envolvendo **pentest, simulação de phishing, engenharia social e análise de riscos**, com foco em identificação de vulnerabilidades e recomendações de segurança.
 
-  O projeto reúne estudos práticos com **REMnux, VirusTotal, MetaDefender, ANY.RUN, Cuckoo Sandbox e MITRE ATT&CK**, mantendo rastreabilidade e integridade das evidências durante toda a investigação.
+*Inclui: Pentest & Phishing Simulation • Gula Bar.*
 
-  **Collect → Preserve → Analyze → Correlate → Report**
-
-  [![Repositório](https://img.shields.io/badge/📂_REPOSITÓRIO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/geovanniandrade/gg-malware-analysis)
-  
----
-
-- 🔴 **Pentest + Simulação de Phishing — Engenharia Social**  
-  Case prático realizado em ambiente corporativo autorizado, com foco em reconhecimento, análise de exposição, simulação controlada de engenharia social, conscientização dos usuários e recomendações de melhoria de segurança.
-
-  [![Repositório](https://img.shields.io/badge/📂_REPOSITÓRIO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/geovanniandrade/security-case-studies/tree/main/pentest-and-phishing-simulation)
+### 🎣 [GuiPhish — Security Awareness Platform](https://github.com/geovanniandrade/verificacao-seguranca)
+Plataforma educacional para conscientização em segurança, simulações controladas de engenharia social e análise de métricas.
 
 ---
 
-- 🎣 **GuiPhish — Security Awareness Platform**  
-  Plataforma educacional para conscientização em segurança, simulações controladas de engenharia social, coleta de métricas e geração de relatórios.
+## 🔬 Análises e Investigações de Segurança
 
-  [![Repositório](https://img.shields.io/badge/📂_REPOSITÓRIO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/geovanniandrade/verificacao-seguranca)
+### 🦠 [GG Malware Analysis — DFIR](https://github.com/geovanniandrade/gg-malware-analysis)
+Análise estática e automatizada de malware, coleta e preservação de evidências, cadeia de custódia, IoCs e relatórios técnicos.
 
----
-
-- 🟡 **Gula Bar — Análise de Riscos**  
-  Case prático de análise de riscos, com foco em identificação de ativos, ameaças, vulnerabilidades, impacto, probabilidade e recomendações de mitigação.
-
-  [![Repositório](https://img.shields.io/badge/📂_REPOSITÓRIO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/geovanniandrade/security-case-studies/tree/main/gula-bar-risk-analysis)
+### 🛡️ GG EDR Incident Investigation — *em preparação*
+Guia prático de investigação de alertas EDR: triagem, coleta de evidências, análise de processos, inteligência de ameaças, contenção, veredito e relatório. **Link disponível após a publicação do repositório.**
 
 ---
 
-- 🟢 **Cybersecurity Labs**  
-  Repositório com laboratórios práticos voltados para Blue Team, Red Team, Purple Team, análise de vulnerabilidades e resposta a incidentes.
+## 🧪 Laboratórios Práticos
 
-  [![Repositório](https://img.shields.io/badge/📂_REPOSITÓRIO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/geovanniandrade/cybersecurity-labs)
-  
-  ---
+### 🟢 [Cybersecurity Labs](https://github.com/geovanniandrade/cybersecurity-labs)
+Laboratórios práticos para Blue Team, Red Team, Purple Team, análise de vulnerabilidades e resposta a incidentes.
+
+---
+
 ## 🌐 Conecte-se comigo
 
 <p align="left">
