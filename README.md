@@ -64,8 +64,8 @@ Plataforma educacional para conscientização em segurança, simulações contro
 ### 🦠 [GG Malware Analysis — DFIR](https://github.com/geovanniandrade/gg-malware-analysis)
 Análise estática e automatizada de malware, coleta e preservação de evidências, cadeia de custódia, IoCs e relatórios técnicos.
 
-### 🛡️ GG EDR Incident Investigation — *em preparação*
-Guia prático de investigação de alertas EDR: triagem, coleta de evidências, análise de processos, inteligência de ameaças, contenção, veredito e relatório. **Link disponível após a publicação do repositório.**
+### 🛡️ [GG EDR Incident Investigation](https://github.com/geovanniandrade/gg-edr-incident-investigation)
+Guia prático de investigação de alertas EDR: triagem, coleta de evidências, análise de processos, inteligência de ameaças, contenção, veredito e relatório.
 
 ---
 
