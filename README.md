@@ -73,12 +73,12 @@ Guia prático de investigação de alertas EDR: triagem, coleta de evidências, 
 
 Ferramentas web em desenvolvimento para auditorias defensivas, análise de riscos e recomendações acessíveis a equipes de TI.
 
-- **🛡️ GG Endpoint Hardening Auditor** — Verificação de configurações Windows por coleta PowerShell somente leitura e relatório de segurança.
-- **🌐 GG Network Threat Analyzer** — Análise de arquivos PCAP e logs de rede, conexões e indicadores suspeitos.
-- **🔎 GG Vulnerability Management** — Pesquisa de CVEs por produto/versão, priorização e importação de relatórios de auditoria.
-- **🔐 GG Identity Security Auditor** — Auditoria de contas, grupos e privilégios de Active Directory, com recomendações.
+- **🛡️ [GG Endpoint Hardening Auditor](https://github.com/geovanniandrade/gg-endpoint-hardening-auditor)** — Verificação de configurações Windows por coleta PowerShell somente leitura e relatório de segurança.
+- **🌐 [GG Network Threat Analyzer](https://github.com/geovanniandrade/gg-network-threat-analyzer)** — Análise de arquivos PCAP e logs de rede, conexões e indicadores suspeitos.
+- **🔎 [GG Vulnerability Management](https://github.com/geovanniandrade/gg-vulnerability-management)** — Pesquisa de CVEs por produto/versão, priorização e importação de relatórios de auditoria.
+- **🔐 [GG Identity Security Auditor](https://github.com/geovanniandrade/gg-identity-security-auditor)** — Auditoria de contas, grupos e privilégios de Active Directory, com recomendações.
 
-*Em desenvolvimento. Repositórios e demonstrações serão vinculados quando estiverem disponíveis. Nenhuma ferramenta está declarada pronta para produção.*
+*Versões iniciais disponíveis para demonstração. Projetos em evolução, ainda não homologados para produção.*
 
 ---
 
