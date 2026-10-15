@@ -71,14 +71,29 @@ Guia prático de investigação de alertas EDR: triagem, coleta de evidências, 
 
 ## 🧰 Aplicativos de Segurança
 
-Ferramentas web em desenvolvimento para auditorias defensivas, análise de riscos e recomendações acessíveis a equipes de TI.
+Ferramentas com interface web para facilitar auditorias e análises defensivas, mesmo para quem está começando na área.
 
-- **🛡️ [GG Endpoint Hardening Auditor](https://github.com/geovanniandrade/gg-endpoint-hardening-auditor)** — Verificação de configurações Windows por coleta PowerShell somente leitura e relatório de segurança.
-- **🌐 [GG Network Threat Analyzer](https://github.com/geovanniandrade/gg-network-threat-analyzer)** — Análise de arquivos PCAP e logs de rede, conexões e indicadores suspeitos.
-- **🔎 [GG Vulnerability Management](https://github.com/geovanniandrade/gg-vulnerability-management)** — Pesquisa de CVEs por produto/versão, priorização e importação de relatórios de auditoria.
-- **🔐 [GG Identity Security Auditor](https://github.com/geovanniandrade/gg-identity-security-auditor)** — Auditoria de contas, grupos e privilégios de Active Directory, com recomendações.
+### 🛡️ GG Endpoint Hardening Auditor
+Auditoria de configurações Windows via PowerShell somente leitura, com importação JSON e relatório.
 
-*Versões iniciais disponíveis para demonstração. Projetos em evolução, ainda não homologados para produção.*
+[![Repositório](https://img.shields.io/badge/REPOSITÓRIO-2F81F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/geovanniandrade/gg-endpoint-hardening-auditor)
+
+### 🌐 GG Network Threat Analyzer
+Análise inicial de conexões por CSV, portas e destinos. Suporte a PCAP planejado.
+
+[![Repositório](https://img.shields.io/badge/REPOSITÓRIO-06B6D4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/geovanniandrade/gg-network-threat-analyzer)
+
+### 🔎 GG Vulnerability Management
+Pesquisa orientada de possíveis CVEs por produto e versão, com recomendações e relatório.
+
+[![Repositório](https://img.shields.io/badge/REPOSITÓRIO-F59E0B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/geovanniandrade/gg-vulnerability-management)
+
+### 🔐 GG Identity Security Auditor
+Auditoria de contas e privilégios por importação CSV, com indicadores para revisão.
+
+[![Repositório](https://img.shields.io/badge/REPOSITÓRIO-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/geovanniandrade/gg-identity-security-auditor)
+
+*Versões iniciais de demonstração, ainda não homologadas para produção. Os botões das interfaces web serão incluídos após a ativação do GitHub Pages.*
 
 ---
 
