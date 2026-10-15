@@ -73,7 +73,6 @@ Atualmente estou direcionando minha evolução profissional para a área de **Cy
 | **Network Threat Analyzer** — Análise de conexões por CSV. | [![REPO](https://img.shields.io/badge/REPO-06B6D4?style=flat-square&logo=github&logoColor=white)](https://github.com/geovanniandrade/gg-network-threat-analyzer) |
 | **Vulnerability Management** — Pesquisa orientada de CVEs. | [![REPO](https://img.shields.io/badge/REPO-F59E0B?style=flat-square&logo=github&logoColor=white)](https://github.com/geovanniandrade/gg-vulnerability-management) |
 | **Identity Security Auditor** — Auditoria de contas e privilégios. | [![REPO](https://img.shields.io/badge/REPO-8B5CF6?style=flat-square&logo=github&logoColor=white)](https://github.com/geovanniandrade/gg-identity-security-auditor) |
-
 | **OSINT Intelligence Platform** — Investigações OSINT guiadas, grafo interativo e fontes públicas. | [![REPO](https://img.shields.io/badge/REPO-FB7185?style=flat-square&logo=github&logoColor=white)](https://github.com/geovanniandrade/GG-OSINT-Intelligence-Platform) |
 
 <sub>Aplicativos em versão inicial de demonstração, ainda não homologados para produção.</sub>
