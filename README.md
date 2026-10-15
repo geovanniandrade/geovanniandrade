@@ -69,6 +69,19 @@ Guia prático de investigação de alertas EDR: triagem, coleta de evidências, 
 
 ---
 
+## 🧰 Aplicativos de Segurança
+
+Ferramentas web em desenvolvimento para auditorias defensivas, análise de riscos e recomendações acessíveis a equipes de TI.
+
+- **🛡️ GG Endpoint Hardening Auditor** — Verificação de configurações Windows por coleta PowerShell somente leitura e relatório de segurança.
+- **🌐 GG Network Threat Analyzer** — Análise de arquivos PCAP e logs de rede, conexões e indicadores suspeitos.
+- **🔎 GG Vulnerability Management** — Pesquisa de CVEs por produto/versão, priorização e importação de relatórios de auditoria.
+- **🔐 GG Identity Security Auditor** — Auditoria de contas, grupos e privilégios de Active Directory, com recomendações.
+
+*Em desenvolvimento. Repositórios e demonstrações serão vinculados quando estiverem disponíveis. Nenhuma ferramenta está declarada pronta para produção.*
+
+---
+
 ## 🧪 Laboratórios Práticos
 
 ### 🟢 [Cybersecurity Labs](https://github.com/geovanniandrade/cybersecurity-labs)
