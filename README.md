@@ -75,7 +75,6 @@ Atualmente estou direcionando minha evolução profissional para a área de **Cy
 | **Identity Security Auditor** — Auditoria de contas e privilégios. | [![REPO](https://img.shields.io/badge/REPO-8B5CF6?style=flat-square&logo=github&logoColor=white)](https://github.com/geovanniandrade/gg-identity-security-auditor) |
 | **OSINT Intelligence Platform** — Investigações OSINT guiadas, grafo interativo e fontes públicas. | [![REPO](https://img.shields.io/badge/REPO-FB7185?style=flat-square&logo=github&logoColor=white)](https://github.com/geovanniandrade/GG-OSINT-Intelligence-Platform) |
 
-<sub>Aplicativos em versão inicial de demonstração, ainda não homologados para produção.</sub>
 
 ---
 
