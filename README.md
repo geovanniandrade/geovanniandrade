@@ -8,6 +8,12 @@
   Atuo com suporte, infraestrutura e segurança em ambiente corporativo, desenvolvendo projetos práticos de Blue Team, análise de vulnerabilidades, detecção de ameaças e resposta a incidentes.
 </p>
 
+<p align="center">
+  <a href="https://geovanniandrade.github.io/">
+    <img src="https://img.shields.io/badge/🌐_ACESSAR_MEU_PORTFÓLIO-2563EB?style=for-the-badge&logoColor=white" alt="Acessar meu portfólio profissional">
+  </a>
+</p>
+
 ---
 
 ## 👨‍💻 Sobre mim
