@@ -62,6 +62,7 @@ Atualmente estou direcionando minha evolução profissional para a área de **Cy
 |---|---|
 | **Malware Analysis — DFIR** — Análise de malware e cadeia de custódia. | [![REPO](https://img.shields.io/badge/REPO-34D399?style=flat-square&logo=github&logoColor=white)](https://github.com/geovanniandrade/gg-malware-analysis) |
 | **EDR Incident Investigation** — Investigação e resposta a alertas EDR. | [![REPO](https://img.shields.io/badge/REPO-4E9FFF?style=flat-square&logo=github&logoColor=white)](https://github.com/geovanniandrade/gg-edr-incident-investigation) |
+| **NDR & XDR Investigation** — Estudos, playbooks e exercícios de investigação de alertas. | [![REPO](https://img.shields.io/badge/REPO-06B6D4?style=flat-square&logo=github&logoColor=white)](https://github.com/geovanniandrade/gg-ndr-xdr-investigation) |
 
 ---
 
