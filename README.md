@@ -55,7 +55,7 @@ Atualmente estou direcionando minha evolução profissional para a área de **Cy
 
 ## 🚀 Projetos em destaque
 
-| Projeto | Link |
+| Projeto | Demo &nbsp; / &nbsp; Repositório |
 |---|---|
 | **GG Vulnerability Intelligence** — Plataforma de inteligência de vulnerabilidades com NIST NVD, CISA KEV e monitoramento automatizado de CVEs. | [![DEMO](https://img.shields.io/badge/DEMO-2563EB?style=flat-square&logo=githubpages&logoColor=white)](https://geovanniandrade.github.io/gg-vulnerability-intelligence/)&nbsp;[![REPO](https://img.shields.io/badge/REPO-38BDF8?style=flat-square&logo=github&logoColor=white)](https://github.com/geovanniandrade/gg-vulnerability-intelligence) |
 | **Security Case Studies** — Pentest, phishing e análise de riscos. | [![REPO](https://img.shields.io/badge/REPO-E55360?style=flat-square&logo=github&logoColor=white)](https://github.com/geovanniandrade/security-case-studies) |
@@ -65,31 +65,31 @@ Atualmente estou direcionando minha evolução profissional para a área de **Cy
 
 ## 🔬 Análises e Investigações de Segurança
 
-| Projeto | Link |
+| Projeto | Demo &nbsp; / &nbsp; Repositório |
 |---|---|
-| **Malware Analysis — DFIR** — Análise de malware e cadeia de custódia. | [![REPO](https://img.shields.io/badge/REPO-34D399?style=flat-square&logo=github&logoColor=white)](https://github.com/geovanniandrade/gg-malware-analysis) |
-| **EDR Incident Investigation** — Investigação e resposta a alertas EDR. | [![REPO](https://img.shields.io/badge/REPO-4E9FFF?style=flat-square&logo=github&logoColor=white)](https://github.com/geovanniandrade/gg-edr-incident-investigation) |
-| **NDR & XDR Investigation** — Estudos, playbooks e exercícios de investigação de alertas. | [![REPO](https://img.shields.io/badge/REPO-06B6D4?style=flat-square&logo=github&logoColor=white)](https://github.com/geovanniandrade/gg-ndr-xdr-investigation) |
-| **Security Log Analysis** — Análise de logs de Firewall, NDR, Wazuh, Windows e Linux. | [![REPO](https://img.shields.io/badge/REPO-38BDF8?style=flat-square&logo=github&logoColor=white)](https://github.com/geovanniandrade/security-log-analysis) |
+| **Malware Analysis — DFIR** — Análise de malware e cadeia de custódia. | [![DEMO](https://img.shields.io/badge/DEMO-2563EB?style=flat-square&logo=githubpages&logoColor=white)](https://geovanniandrade.github.io/gg-malware-analysis/)&nbsp;[![REPO](https://img.shields.io/badge/REPO-34D399?style=flat-square&logo=github&logoColor=white)](https://github.com/geovanniandrade/gg-malware-analysis) |
+| **EDR Incident Investigation** — Investigação e resposta a alertas EDR. | [![DEMO](https://img.shields.io/badge/DEMO-2563EB?style=flat-square&logo=githubpages&logoColor=white)](https://geovanniandrade.github.io/gg-edr-incident-investigation/)&nbsp;[![REPO](https://img.shields.io/badge/REPO-4E9FFF?style=flat-square&logo=github&logoColor=white)](https://github.com/geovanniandrade/gg-edr-incident-investigation) |
+| **NDR & XDR Investigation** — Estudos, playbooks e exercícios de investigação de alertas. | [![DEMO](https://img.shields.io/badge/DEMO-2563EB?style=flat-square&logo=githubpages&logoColor=white)](https://geovanniandrade.github.io/gg-ndr-xdr-investigation/)&nbsp;[![REPO](https://img.shields.io/badge/REPO-06B6D4?style=flat-square&logo=github&logoColor=white)](https://github.com/geovanniandrade/gg-ndr-xdr-investigation) |
+| **Security Log Analysis** — Análise de logs de Firewall, NDR, Wazuh, Windows e Linux. | [![DEMO](https://img.shields.io/badge/DEMO-2563EB?style=flat-square&logo=githubpages&logoColor=white)](https://geovanniandrade.github.io/security-log-analysis/)&nbsp;[![REPO](https://img.shields.io/badge/REPO-38BDF8?style=flat-square&logo=github&logoColor=white)](https://github.com/geovanniandrade/security-log-analysis) |
 
 ---
 
 ## 🧰 Aplicativos de Segurança
 
-| Aplicativo | Link |
+| Aplicativo | Demo &nbsp; / &nbsp; Repositório |
 |---|---|
-| **Endpoint Hardening Auditor** — Auditoria de configurações Windows. | [![REPO](https://img.shields.io/badge/REPO-2F81F7?style=flat-square&logo=github&logoColor=white)](https://github.com/geovanniandrade/gg-endpoint-hardening-auditor) |
-| **Network Threat Analyzer** — Análise de conexões por CSV. | [![REPO](https://img.shields.io/badge/REPO-06B6D4?style=flat-square&logo=github&logoColor=white)](https://github.com/geovanniandrade/gg-network-threat-analyzer) |
-| **Vulnerability Management** — Pesquisa orientada de CVEs. | [![REPO](https://img.shields.io/badge/REPO-F59E0B?style=flat-square&logo=github&logoColor=white)](https://github.com/geovanniandrade/gg-vulnerability-management) |
-| **Identity Security Auditor** — Auditoria de contas e privilégios. | [![REPO](https://img.shields.io/badge/REPO-8B5CF6?style=flat-square&logo=github&logoColor=white)](https://github.com/geovanniandrade/gg-identity-security-auditor) |
-| **OSINT Intelligence Platform** — Investigações OSINT guiadas, grafo interativo e fontes públicas. | [![REPO](https://img.shields.io/badge/REPO-FB7185?style=flat-square&logo=github&logoColor=white)](https://github.com/geovanniandrade/GG-OSINT-Intelligence-Platform) |
+| **Endpoint Hardening Auditor** — Auditoria de configurações Windows. | [![DEMO](https://img.shields.io/badge/DEMO-2563EB?style=flat-square&logo=githubpages&logoColor=white)](https://geovanniandrade.github.io/gg-endpoint-hardening-auditor/)&nbsp;[![REPO](https://img.shields.io/badge/REPO-2F81F7?style=flat-square&logo=github&logoColor=white)](https://github.com/geovanniandrade/gg-endpoint-hardening-auditor) |
+| **Network Threat Analyzer** — Análise de conexões por CSV. | [![DEMO](https://img.shields.io/badge/DEMO-2563EB?style=flat-square&logo=githubpages&logoColor=white)](https://geovanniandrade.github.io/gg-network-threat-analyzer/)&nbsp;[![REPO](https://img.shields.io/badge/REPO-06B6D4?style=flat-square&logo=github&logoColor=white)](https://github.com/geovanniandrade/gg-network-threat-analyzer) |
+| **Vulnerability Management** — Pesquisa orientada de CVEs. | [![DEMO](https://img.shields.io/badge/DEMO-2563EB?style=flat-square&logo=githubpages&logoColor=white)](https://geovanniandrade.github.io/gg-vulnerability-management/)&nbsp;[![REPO](https://img.shields.io/badge/REPO-F59E0B?style=flat-square&logo=github&logoColor=white)](https://github.com/geovanniandrade/gg-vulnerability-management) |
+| **Identity Security Auditor** — Auditoria de contas e privilégios. | [![DEMO](https://img.shields.io/badge/DEMO-2563EB?style=flat-square&logo=githubpages&logoColor=white)](https://geovanniandrade.github.io/gg-identity-security-auditor/)&nbsp;[![REPO](https://img.shields.io/badge/REPO-8B5CF6?style=flat-square&logo=github&logoColor=white)](https://github.com/geovanniandrade/gg-identity-security-auditor) |
+| **OSINT Intelligence Platform** — Investigações OSINT guiadas, grafo interativo e fontes públicas. | [![DEMO](https://img.shields.io/badge/DEMO-2563EB?style=flat-square&logo=githubpages&logoColor=white)](https://geovanniandrade.github.io/GG-OSINT-Intelligence-Platform/)&nbsp;[![REPO](https://img.shields.io/badge/REPO-FB7185?style=flat-square&logo=github&logoColor=white)](https://github.com/geovanniandrade/GG-OSINT-Intelligence-Platform) |
 
 
 ---
 
 ## 🧪 Laboratórios Práticos
 
-| Projeto | Link |
+| Projeto | Demo &nbsp; / &nbsp; Repositório |
 |---|---|
 | **Cybersecurity Labs** — Laboratórios práticos de segurança. | [![REPO](https://img.shields.io/badge/REPO-3CCF91?style=flat-square&logo=github&logoColor=white)](https://github.com/geovanniandrade/cybersecurity-labs) |
 
