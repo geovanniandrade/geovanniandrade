@@ -57,6 +57,7 @@ Atualmente estou direcionando minha evolução profissional para a área de **Cy
 
 | Projeto | Link |
 |---|---|
+| **GG Vulnerability Intelligence** — Plataforma de inteligência de vulnerabilidades com NIST NVD, CISA KEV e monitoramento automatizado de CVEs. | [![DEMO](https://img.shields.io/badge/DEMO-2563EB?style=flat-square&logo=githubpages&logoColor=white)](https://geovanniandrade.github.io/gg-vulnerability-intelligence/) [![REPO](https://img.shields.io/badge/REPO-38BDF8?style=flat-square&logo=github&logoColor=white)](https://github.com/geovanniandrade/gg-vulnerability-intelligence) |
 | **Security Case Studies** — Pentest, phishing e análise de riscos. | [![REPO](https://img.shields.io/badge/REPO-E55360?style=flat-square&logo=github&logoColor=white)](https://github.com/geovanniandrade/security-case-studies) |
 | **GuiPhish** — Simulações e conscientização em segurança. | [![REPO](https://img.shields.io/badge/REPO-C084FC?style=flat-square&logo=github&logoColor=white)](https://github.com/geovanniandrade/verificacao-seguranca) |
 
